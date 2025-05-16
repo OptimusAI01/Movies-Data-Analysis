@@ -77,7 +77,7 @@ The analysis follows a structured approach:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/BinarySkull/Investigating-the-Movies.git
+    git clone https://github.com/OptimusAI01/Movies-Data-Analysis.git
     cd Investigating the Movies
     ```
 
@@ -107,4 +107,4 @@ This project is licensed under the MIT License. Have fun!
 
 ---
 
-_This README was crafted with care by BinarySkull._
+_This README was crafted with care by OptimusAI01._
